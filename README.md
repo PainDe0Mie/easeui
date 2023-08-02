@@ -1,6 +1,3 @@
-
-# EaseUI
-
 ![Logo](https://i.imgur.com/2eEdAkC.png)
 
 ## Installation
