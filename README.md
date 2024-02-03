@@ -32,7 +32,7 @@ def abutton_1():
 
 button_1.config(command=abutton_1)
 easeui.Entry(root).place(x=158, y=287)
-easeui.Image(root, image_path="C:/Users/axelr/Downloads/EaseUI__1_-removebg-preview.png").place(x=456, y=24)
+easeui.Image(root, image_path="C:/Users/pain/Downloads/EaseUI.png").place(x=456, y=24)
 
 root.run()
 ```
